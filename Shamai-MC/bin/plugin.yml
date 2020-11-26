@@ -1,0 +1,8 @@
+name: ShamaiMC
+main: com.finalLy.Shamai_MC.MainClass
+version: 1.0.0-alpha_1
+api-version: 1.16
+
+commands: 
+  event: 
+    aliases: []
